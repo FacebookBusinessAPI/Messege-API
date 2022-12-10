@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Messege-API/static/css/main.d7ee060e.css",
+    "main.js": "/Messege-API/static/js/main.61c0e93e.js",
+    "static/js/787.28385eeb.chunk.js": "/Messege-API/static/js/787.28385eeb.chunk.js",
+    "index.html": "/Messege-API/index.html",
+    "main.d7ee060e.css.map": "/Messege-API/static/css/main.d7ee060e.css.map",
+    "main.61c0e93e.js.map": "/Messege-API/static/js/main.61c0e93e.js.map",
+    "787.28385eeb.chunk.js.map": "/Messege-API/static/js/787.28385eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ee060e.css",
+    "static/js/main.61c0e93e.js"
+  ]
+}
